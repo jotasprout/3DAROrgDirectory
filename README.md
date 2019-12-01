@@ -1,2 +1,2 @@
-# 3DAROrgDirectory
-3D AR Org Directory
+# 3D AR Org Directory
+Find something like Torch that doesn't require Windows.
